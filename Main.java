@@ -18,6 +18,25 @@ public class Main {
 
    boolean sameAge = (yourAge == drivingAge);
    System.out.println(sameAge);
+
+   boolean isHeads = false;
+if (isHeads) {
+    System.out.println("Let's go to the game");
+}
+else {
+    System.out.println("Let's watch a movie");
+}
+System.out.println("after conditional");
+
+boolean isbeforenoon = true;
+if (isbeforenoon) {
+   System.out.println("Let's get coffe");
+}
+else {
+   System.out.println("Let's get food");
+}
+System.out.println("after conditional");
+
    
 
    }

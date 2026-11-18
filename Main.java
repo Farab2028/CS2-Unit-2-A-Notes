@@ -37,6 +37,23 @@ else {
 }
 System.out.println("after conditional");
 
+int battery = 95;
+if (battery > 95) {
+   System.out.println("Unplug your phone!");
+}
+else if (battery < 50) {
+   System.out.println("Plug in your phone!");
+   if (batery,= 20) {
+      System.out.println("Low power mode.");
+   }
+}
+else {
+   System.out.println("All okay!");
+}
+
+
+
+
    
 
    }
